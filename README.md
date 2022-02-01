@@ -1,3 +1,5 @@
 # ML_project
 
-## In this repository, I compare classification algorithms in order to predict whether a patient suffers or not from CVDs
+### CVDs (cardiovascular diseases) are the leading cause of death globally. In this project I try to predict whether a patients suffers or not from this type of heart disorders. For that purpose I compare the performace of four classification algorithms:
+*Logistic Regression
+
