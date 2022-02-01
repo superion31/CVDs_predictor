@@ -5,5 +5,5 @@
 - K Nearest Neighbors
 - Decision Tree 
 - Support Vector Machine
-### Tuning hyperparameters, best classifier is used to build a simple web-app where the user can insert some personal information and get the predicted result.
+#### Tuning hyperparameters, best classifier is used to build a simple web-app where the user can insert some personal information and get the predicted result.
 
