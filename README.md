@@ -7,3 +7,4 @@
 - Support Vector Machine
 #### Tuning hyperparameters, best classifier is used to build a simple web-app where the user can insert some personal information and get the predicted result.
 
+{% include log_plot.html %}
