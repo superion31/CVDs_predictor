@@ -7,3 +7,4 @@
 - Support Vector Machine
 #### Tuning hyperparameters, best classifier is used to build a simple web-app where the user can insert some personal information and get the predicted result.
 
+#### Note: Report was set in the form of Jupyter notebook. Since github does not render plotly figures, I recommend to use the following link that lead to the nbviewer preview https://nbviewer.org/github/superion30/ML_project/blob/main/ML%20Report.ipynb
