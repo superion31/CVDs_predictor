@@ -15,7 +15,7 @@ X = np.zeros([1,20])
 X_trial = np.array([[1.657325, 0.397262, -2.294453, 1, -1.271119, 0.558237, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0]])
 
 #app title
-st.title("ML Application")
+st.title("CVDs Prediction Platform")
 
 #===========================================================
 #feature scaling
