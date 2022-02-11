@@ -7,4 +7,6 @@
 - Support Vector Machine
 #### After tuning hyperparameters, the classifier with the best results is used to build a simple web-app where the user can insert some personal information and get the predicted result.
 
+#### Web-app is hosted by Heroku and you can visit it by clicking https://cvdspredictor.herokuapp.com/.
+
 #### Note: Report was set in the form of Jupyter Notebook. Since github does not render plotly figures, I recommend reading it via the following link that leads to the nbviewer preview https://nbviewer.org/github/superion30/ML_project/blob/main/report_.ipynb
