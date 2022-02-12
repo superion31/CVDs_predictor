@@ -20,11 +20,8 @@
 ```bash
 git clone https://github.com/superion30/ML_project.git
 ```
-- create a virtual envinment
-```bash
-pip3 install virtualenv
-```
 - head to the repo directory 
+- create a virtual environment 
 ```bash
 virtualenv <your_name>
 source bin/activate
