@@ -1,5 +1,7 @@
 # ML_project
 
+## About
+
 #### CVDs (cardiovascular diseases) are the leading cause of death globally. In this project I try to predict whether a patient suffers or not from this type of heart disorders. For that purpose I compare the performace of four classification algorithms:
 - Logistic Regression
 - K Nearest Neighbors
@@ -10,3 +12,12 @@
 #### Web-app is hosted by Heroku and you can visit it by clicking https://cvdspredictor.herokuapp.com/.
 
 #### Note: Report was set in the form of Jupyter Notebook. Since github does not render plotly figures, I recommend reading it via the following link that leads to the nbviewer preview https://nbviewer.org/github/superion30/ML_project/blob/main/report_.ipynb
+
+## Run Script
+
+#### In case you want to run the code.py locally you can use the following commands on your terminal 
+- clone repo 
+```bash
+git clone https://github.com/superion30/ML_project.git
+```
+-create a virtual envinment including requirements
