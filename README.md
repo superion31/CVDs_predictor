@@ -20,4 +20,27 @@
 ```bash
 git clone https://github.com/superion30/ML_project.git
 ```
--create a virtual envinment including requirements
+- create a virtual envinment
+```bash
+pip3 install virtualenv
+```
+- head to the repo directory 
+```bash
+virtualenv <your_name>
+source bin/activate
+```
+- install requirements 
+```bash
+pip3 install -r requirements.txt
+```
+-run the .py file you'd like
+```bash
+python3 code.py
+```
+
+## Contributing 
+
+#### Feel free to contanct for any remarks, corrections, additions or any advice. 
+
+#### Thank you in advance. 
+#### Enjoy!
