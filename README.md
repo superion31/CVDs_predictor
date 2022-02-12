@@ -21,10 +21,13 @@
 git clone https://github.com/superion30/ML_project.git
 ```
 - head to the repo directory 
-- create a virtual environment 
+- set up a virtual environment 
 ```bash
-virtualenv <your_name>
-source bin/activate
+virtualenv venv --distribute
+```
+- jump into the virtual environment
+```bash
+. venv/bin/activate
 ```
 - install requirements 
 ```bash
