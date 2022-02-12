@@ -33,7 +33,7 @@ source bin/activate
 ```bash
 pip3 install -r requirements.txt
 ```
--run the .py file you'd like
+- run the .py file you'd like
 ```bash
 python3 code.py
 ```
