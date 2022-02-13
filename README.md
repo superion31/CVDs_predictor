@@ -20,15 +20,19 @@
 ```bash
 git clone https://github.com/superion30/ML_project.git
 ```
+- head to the repo directory 
+```bash
+cd ./ML_project
+```
 - set up a virtual environment 
 ```bash
-virtualenv venv --distribute
+python3 -m venv env
 ```
 - jump into the virtual environment
 ```bash
-. venv/bin/activate
+source env/bin/activate
 ```
-- head to the repo directory and install requirements 
+- install requirements 
 ```bash
 pip3 install -r requirements.txt
 ```
