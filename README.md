@@ -18,11 +18,11 @@
 #### In case you want to run the code.py locally you can use the following commands on your terminal 
 - clone repo 
 ```bash
-git clone https://github.com/superion30/ML_project.git
+git clone https://github.com/superion30/CVDs_predictor.git
 ```
 - head to the repo directory 
 ```bash
-cd ./ML_project
+cd ./CVDs_predictor
 ```
 - set up a virtual environment 
 ```bash
